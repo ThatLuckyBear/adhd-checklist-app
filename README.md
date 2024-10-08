@@ -16,3 +16,7 @@ Solution: Tasks can be assigned attributes and be grouped, filtered, or sorted b
 
 Problem: Many checklist apps do not account for "missed" or "late" tasks and treat them the same as any other task in the list
 Solution: Checklist keeps track of the last date a task was completed and increases it's priority if necessary to make it more obvious that it needs to be done.
+
+Problem: Many checklist apps do not account for partial goal completion or "sub-goals" which are steps within a task that need to be completed to accomplish the main goal. (ie: vaccuum the house includes vacuum the kitchen, bedroom A, bedroom B, etc.)
+Solution: Goals can be given steps within it to help keep the mind focused on the steps and give a start/end point to a goal so it feels less nebulous.
+
