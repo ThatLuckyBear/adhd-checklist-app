@@ -3,7 +3,6 @@ This is a rambling style list here that will be organized into coherent categori
 
 <details>
 <summary>
-
 Ideal App Experience
 </summary>
 
