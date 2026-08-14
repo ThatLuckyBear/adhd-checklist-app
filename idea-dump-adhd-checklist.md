@@ -1,8 +1,7 @@
 This is a rambling style list here that will be organized into coherent categories once they become obvious.
 
 
-<details><summary>
-## Ideal Experience
+<details><summary> ## Ideal Experience
 
 </summary>
 
