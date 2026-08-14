@@ -2,9 +2,9 @@ This is a rambling style list here that will be organized into coherent categori
 
 
 <details>
-<h2><summary>
+<summary fontsize=h2>
 Ideal App Experience
-</summary></h2>
+</summary>
 
   The vision for what this app would look and feel like to give a starting point.
 
