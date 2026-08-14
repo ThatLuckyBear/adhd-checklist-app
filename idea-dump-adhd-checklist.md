@@ -25,4 +25,11 @@ This is a rambling style list here that will be organized into coherent categori
     - set notification to pop into the app first thing tomorrow
   - user adds a handful of tasks and does them
 
+### Check In/Reminders!
+New idea 8/14/26
+Some things you just need to check. Do I need toilet paper? When was the last time I washed my water bottle? 
+If the app asks and after checking the user answers yes or no and the app automatically marks the last time it was checked and will check in again at a later date. If yes the app will offer to add a todo item for "put toilet paper on the shopping list"
+
+the point is that sometimes you don't need to do something but you should probably know how long it's been since you've checked. I often buy too much mayo because the one in the fridge runs out but there's already shelf stable mayo in the pantry. Or I'll forgo buying toilet paper or oat milk twice because I'm totally sure I checked yesterday and that was more than a week ago.
+
 </details>
