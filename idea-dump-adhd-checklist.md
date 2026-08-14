@@ -2,7 +2,7 @@ This is a rambling style list here that will be organized into coherent categori
 
 
 <details>
-<summary fontsize=h2>
+<summary fontsize=20>
 Ideal App Experience
 </summary>
 
