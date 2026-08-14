@@ -2,8 +2,8 @@ This is a rambling style list here that will be organized into coherent categori
 
 
 <details>
-<summary fontsize=20>
-Ideal App Experience
+<summary>
+<p>Ideal App Experience</p>
 </summary>
 
   The vision for what this app would look and feel like to give a starting point.
