@@ -1,7 +1,7 @@
 This is a rambling style list here that will be organized into coherent categories once they become obvious.
 
 
-<details><summary>Ideal App Experience</summary>
+<details><summary><h2>Ideal App Experience</h2></summary>
 
   The vision for what this app would look and feel like to give a starting point.
 
